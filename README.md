@@ -1,7 +1,7 @@
 # TP REST
 ## Généralités sur Rest
 ### Le concept
-Le terme ***REST (Representational State Transfer)*** représente une ***architecture logicielle*** qui définit ensemble deux contraintes pour la création de services .
+Le terme ***REST (Representational State Transfer)*** représente une ***architecture logicielle*** qui définit  deux contraintes pour la création de services .
 Le ***client*** est la personne application frontale ou mobile qui utilise et consomme les ressources de l'API.
 Les ***ressources*** sont les données ***exposés*** pas notre API.
 <br/> Sur une API Rest les ***requêtes s'effectuent sur l'URL d'un ressource***, puis les ressources récupérées sous le format ***JSON, XML, ...***
